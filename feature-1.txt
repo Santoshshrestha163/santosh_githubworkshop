@@ -1,2 +1,5 @@
 def feature-1:
 printf("this is feature-1 branch");
+
+def new function;
+printf("this is the new function in this branch")
